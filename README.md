@@ -1,4 +1,4 @@
-# QAP_Module_24_Task_24_2_3
+# QAP_Module_24_Task_24_2_3_PytonTests
 
 Решение к задаче 24.2.3 24 модуля курса QAP SkillFactory
 
